@@ -151,4 +151,10 @@ The following scenarios were tested successfully:
 
 ## Author
 
-GitHub: [mogamal1111](https://github.com/mogamal1111)
+**Mohamed Gamal**
+
+Machine Learning & Deep Learning Engineer
+
+GitHub: https://github.com/mogamal1111
+
+LinkedIn: https://www.linkedin.com/in/mohamed-gamal-85795735b
